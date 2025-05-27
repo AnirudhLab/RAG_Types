@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+sentence-transformers
+faiss-cpu
+pypdf
+python-dotenv
+numpy
+transformers==4.36.2
+torch==2.1.0
